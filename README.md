@@ -27,7 +27,7 @@
 
 Saya adalah seorang **Full-Stack Developer** yang berpengalaman dalam membangun aplikasi yang tangguh dari hulu ke hilir (*end-to-end*). Fokus utama saya berada pada ekosistem *front-end* dan *back-end* modern, merancang RESTful API yang *scalable*, manajemen basis data yang kompleks, hingga orkestrasi *deployment* menggunakan *container* Docker.
 
-Keahlian saya meliputi *stack* modern seperti React JS, Node.js, Next.js, Flask, dan Laravel. Hal yang membedakan saya adalah antusiasme dalam mengintegrasikan teknologi baru, terutama AI/ML (MediaPipe, LSTM), ke dalam solusi praktis. Saya berfokus pada penciptaan aplikasi yang *user-friendly* sekaligus memiliki arsitektur sistem yang andal, didukung oleh pemahaman arsitektur sistem yang kuat dan keahlian di bidang *Data Engineering* serta *UX/UI Design* dari Coursera.
+Keahlian saya meliputi *stack* modern seperti React JS, Node.js, Next.js, Express, Flask, dan Laravel. Hal yang membedakan saya adalah antusiasme dalam mengintegrasikan teknologi baru, terutama AI/ML (MediaPipe, LSTM), ke dalam solusi praktis. Saya berfokus pada penciptaan aplikasi yang *user-friendly* sekaligus memiliki arsitektur sistem yang andal, didukung oleh pemahaman arsitektur sistem yang kuat dan keahlian di bidang *Data Engineering* serta *UX/UI Design* dari Coursera.
 
 Saya selalu antusias untuk menghadapi tantangan teknis yang kompleks dan siap berkolaborasi dalam proyek-proyek inovatif.
 
@@ -38,13 +38,11 @@ Saya selalu antusias untuk menghadapi tantangan teknis yang kompleks dan siap be
 <div align="center">
   <h3>Frontend & UI</h3>
   <a href="https://skillicons.dev">
-    <!-- Next.js ada di sebelah React -->
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite" alt="Frontend Technologies" />
   </a>
   
   <h3>Backend & Databases</h3>
   <a href="https://skillicons.dev">
-    <!-- Express ditambahkan di sebelah Node.js -->
     <img src="https://skillicons.dev/icons?i=nodejs,express,flask,py,laravel,php,mysql,firebase" alt="Backend and Databases" />
   </a>
   
@@ -70,8 +68,8 @@ Saya selalu antusias untuk menghadapi tantangan teknis yang kompleks dan siap be
   
   <br><br>
 
-  <!-- Top Languages Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyaefulEffendi&layout=compact&theme=dark&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&hide_border=true" alt="Top Languages" />
+  <!-- Top Languages dengan Server Lecoq Metrics yang Dioptimalkan (Loading < 2 detik) -->
+  <img src="https://metrics.lecoq.io/SyaefulEffendi?template=classic&base=false&plugin_languages=yes&plugin_languages_limit=6&theme=dark" alt="Top Languages" />
 
 </div>
 
