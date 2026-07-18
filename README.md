@@ -1,23 +1,23 @@
-<!-- Header menggunakan Capsule Render (Sleek Dark Mode) -->
+<!-- Header menggunakan Capsule Render (Sleek Blue & Black Theme) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,13&height=250&section=header&text=Hi%20I'm%20Moh.%20Syaeful%20Effendi&fontSize=45&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=002244,0077b6,00b4d8&height=250&section=header&text=Hi%20I'm%20Moh.%20Syaeful%20Effendi&fontSize=45&animation=fadeIn&fontColor=ffffff" width="100%" />
 </div>
 
 <h2 align="center">Full-Stack Developer</h2>
 
-<!-- Kontak & Social Badges -->
+<!-- Kontak & Social Badges (Tema Senada: Hitam & Biru) -->
 <div align="center">
   <a href="mailto:mohsyaefuleffendi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0EA5E9" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/moh-syaeful-effendi-b664a3315/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0EA5E9" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/syaefuleffendi/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=0EA5E9" alt="Instagram" />
   </a>
   <a href="https://www.tiktok.com/@syaefuleffendi">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+    <img src="https://img.shields.io/badge/TikTok-0D1117?style=for-the-badge&logo=tiktok&logoColor=0EA5E9" alt="TikTok" />
   </a>
 </div>
 
@@ -35,21 +35,21 @@ Saya selalu antusias untuk menghadapi tantangan teknis yang kompleks dan siap be
 
 ### 🛠️ Tech Stack & Tools
 
-<!-- Visualisasi Tech Stack Terorganisir menggunakan Skill Icons -->
+<!-- Visualisasi Tech Stack yang Jauh Lebih Lengkap -->
 <div align="center">
-  <h3>Core Technologies</h3>
+  <h3>Frontend & UI</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs" alt="Core Technologies" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite" alt="Frontend Technologies" />
   </a>
   
-  <h3>Advanced Stacks, Databases & Hardware Programming</h3>
+  <h3>Backend & Databases</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,py,laravel,php,docker,mysql,firebase,arduino" alt="Advanced Stacks" />
+    <img src="https://skillicons.dev/icons?i=nodejs,flask,py,laravel,php,mysql,firebase" alt="Backend and Databases" />
   </a>
   
-  <h3>Tools & Platforms</h3>
+  <h3>Tools, Environments & Hardware</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,googlechrome,godot" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux,figma,arduino" alt="Tools and Platforms" />
   </a>
 </div>
 
@@ -57,14 +57,14 @@ Saya selalu antusias untuk menghadapi tantangan teknis yang kompleks dan siap be
 
 ### 📊 Real-Time Statistics
 
-<!-- Menampilkan Statistik Tersusun Vertikal Menyerupai Referensi -->
+<!-- Menampilkan Statistik Tersusun Vertikal dengan Tema Hitam/Biru -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyaefulEffendi&show_icons=true&bg_color=151515&title_color=E3B341&text_color=ffffff&icon_color=E3B341&border_color=800000&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SyaefulEffendi&show_icons=true&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&icon_color=0EA5E9&border_color=0EA5E9&hide_border=false" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyaefulEffendi&bg_color=151515&title_color=E3B341&text_color=ffffff&border_color=800000&hide_border=false&layout=normal" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyaefulEffendi&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&border_color=0EA5E9&hide_border=false&layout=normal" alt="Top Languages" />
   <br><br>
-  <!-- WakaTime Stats: Membutuhkan integrasi WakaTime yang terhubung ke GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SyaefulEffendi&bg_color=151515&title_color=E3B341&text_color=ffffff&border_color=800000&hide_border=false" alt="WakaTime Stats" />
+  <!-- GitHub Streak Stats sebagai pengganti WakaTime yang error -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyaefulEffendi&theme=dark&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0EA5E9&sideLabels=ffffff&dates=ffffff&stroke=0EA5E9&border=0EA5E9" alt="GitHub Streak" />
 </div>
 
 ---
@@ -74,13 +74,13 @@ Saya selalu antusias untuk menghadapi tantangan teknis yang kompleks dan siap be
 <!-- Bagian Khusus untuk Bahasaku (AI Project) -->
 <div align="center">
   <a href="https://bahasaku.tifpsdku.com/">
-    <img src="https://img.shields.io/badge/Bahasaku-Real--Time%20Sign%20Language%20Translator-252F3F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Bahasaku" />
+    <img src="https://img.shields.io/badge/Bahasaku-Real--Time%20Sign%20Language%20Translator-0D1117?style=for-the-badge&logo=googlechrome&logoColor=0EA5E9" alt="Portfolio Bahasaku" />
   </a>
   <br><br>
   <p>💡 <b>Bahasaku:</b> Sistem penerjemah bahasa isyarat *real-time* yang memanfaatkan algoritma MediaPipe dan LSTM sebagai solusi AI praktis.</p>
 </div>
 
-<!-- Footer menggunakan Capsule Render -->
+<!-- Footer menggunakan Capsule Render (Sleek Blue & Black Theme) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,13&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=002244,0077b6,00b4d8&height=100&section=footer" width="100%" />
 </div>
