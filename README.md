@@ -1,11 +1,11 @@
-<!-- Header menggunakan Capsule Render (Sleek Blue & Black Theme) -->
+<!-- Header menggunakan Capsule Render (Solid Blue) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=002244,0077b6,00b4d8&height=250&section=header&text=Hi%20I'm%20Moh.%20Syaeful%20Effendi&fontSize=45&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=250&section=header&text=Hi%20I'm%20Moh.%20Syaeful%20Effendi&fontSize=45&animation=fadeIn&fontColor=ffffff" width="100%" />
 </div>
 
 <h2 align="center">Full-Stack Developer</h2>
 
-<!-- Kontak & Social Badges (Tema Senada: Hitam & Biru) -->
+<!-- Kontak & Social Badges -->
 <div align="center">
   <a href="mailto:mohsyaefuleffendi@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0EA5E9" alt="Email" />
@@ -35,7 +35,6 @@ Saya selalu antusias untuk menghadapi tantangan teknis yang kompleks dan siap be
 
 ### 🛠️ Tech Stack & Tools
 
-<!-- Visualisasi Tech Stack yang Jauh Lebih Lengkap -->
 <div align="center">
   <h3>Frontend & UI</h3>
   <a href="https://skillicons.dev">
@@ -57,13 +56,11 @@ Saya selalu antusias untuk menghadapi tantangan teknis yang kompleks dan siap be
 
 ### 📊 Real-Time Statistics
 
-<!-- Menampilkan Statistik Tersusun Vertikal dengan Tema Hitam/Biru -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SyaefulEffendi&show_icons=true&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&icon_color=0EA5E9&border_color=0EA5E9&hide_border=false" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyaefulEffendi&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&border_color=0EA5E9&hide_border=false&layout=normal" alt="Top Languages" />
   <br><br>
-  <!-- GitHub Streak Stats sebagai pengganti WakaTime yang error -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyaefulEffendi&theme=dark&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0EA5E9&sideLabels=ffffff&dates=ffffff&stroke=0EA5E9&border=0EA5E9" alt="GitHub Streak" />
 </div>
 
@@ -71,7 +68,6 @@ Saya selalu antusias untuk menghadapi tantangan teknis yang kompleks dan siap be
 
 ### 🚀 Proyek Utama
 
-<!-- Bagian Khusus untuk Bahasaku (AI Project) -->
 <div align="center">
   <a href="https://bahasaku.tifpsdku.com/">
     <img src="https://img.shields.io/badge/Bahasaku-Real--Time%20Sign%20Language%20Translator-0D1117?style=for-the-badge&logo=googlechrome&logoColor=0EA5E9" alt="Portfolio Bahasaku" />
@@ -80,7 +76,7 @@ Saya selalu antusias untuk menghadapi tantangan teknis yang kompleks dan siap be
   <p>💡 <b>Bahasaku:</b> Sistem penerjemah bahasa isyarat *real-time* yang memanfaatkan algoritma MediaPipe dan LSTM sebagai solusi AI praktis.</p>
 </div>
 
-<!-- Footer menggunakan Capsule Render (Sleek Blue & Black Theme) -->
+<!-- Footer menggunakan Capsule Render (Solid Blue) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=002244,0077b6,00b4d8&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=100&section=footer" width="100%" />
 </div>
