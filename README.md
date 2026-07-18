@@ -1,9 +1,9 @@
 <!-- Header menggunakan Capsule Render (Sleek Dark Mode) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,13&height=250&section=header&text=Hi!%20Welcome%20to%20My%20Profile%20👋&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,13&height=250&section=header&text=Hi%20I'm%20Moh.%20Syaeful%20Effendi&fontSize=45&animation=fadeIn" width="100%" />
 </div>
 
-<h2 align="center">Full-Stack Developer | AI Enthusiast</h2>
+<h2 align="center">Full-Stack Developer</h2>
 
 <!-- Kontak & Social Badges -->
 <div align="center">
@@ -55,12 +55,16 @@ Saya selalu antusias untuk menghadapi tantangan teknis yang kompleks dan siap be
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 Real-Time Statistics
 
-<!-- Menampilkan Otoritas dengan Statistik Nyata -->
+<!-- Menampilkan Statistik Tersusun Vertikal Menyerupai Referensi -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyaefulEffendi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyaefulEffendi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SyaefulEffendi&show_icons=true&bg_color=151515&title_color=E3B341&text_color=ffffff&icon_color=E3B341&border_color=800000&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyaefulEffendi&bg_color=151515&title_color=E3B341&text_color=ffffff&border_color=800000&hide_border=false&layout=normal" alt="Top Languages" />
+  <br><br>
+  <!-- WakaTime Stats: Membutuhkan integrasi WakaTime yang terhubung ke GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SyaefulEffendi&bg_color=151515&title_color=E3B341&text_color=ffffff&border_color=800000&hide_border=false" alt="WakaTime Stats" />
 </div>
 
 ---
@@ -76,7 +80,7 @@ Saya selalu antusias untuk menghadapi tantangan teknis yang kompleks dan siap be
   <p>💡 <b>Bahasaku:</b> Sistem penerjemah bahasa isyarat *real-time* yang memanfaatkan algoritma MediaPipe dan LSTM sebagai solusi AI praktis.</p>
 </div>
 
-<!-- Footer menggunakan Capsule Render (Sleek Dark Mode) -->
+<!-- Footer menggunakan Capsule Render -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,13&height=100&section=footer" width="100%" />
 </div>
