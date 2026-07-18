@@ -57,11 +57,13 @@ Saya selalu antusias untuk menghadapi tantangan teknis yang kompleks dan siap be
 ### 📊 Real-Time Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyaefulEffendi&show_icons=true&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&icon_color=0EA5E9&border_color=0EA5E9&hide_border=false" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyaefulEffendi&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&border_color=0EA5E9&hide_border=false&layout=normal" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyaefulEffendi&theme=dark&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0EA5E9&sideLabels=ffffff&dates=ffffff&stroke=0EA5E9&border=0EA5E9" alt="GitHub Streak" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyaefulEffendi&show_icons=true&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&icon_color=0EA5E9&border_color=0EA5E9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyaefulEffendi&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&border_color=0EA5E9&layout=normal)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SyaefulEffendi&theme=dark&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0EA5E9&sideLabels=ffffff&dates=ffffff&stroke=0EA5E9&border=0EA5E9)
+
 </div>
 
 ---
