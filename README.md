@@ -68,7 +68,7 @@ Saya selalu antusias untuk menghadapi tantangan teknis yang kompleks dan siap be
   
   <br><br>
 
-  <!-- Top Languages dengan Server Lecoq Metrics yang Dioptimalkan (Loading < 2 detik) -->
+  <!-- BENAR-BENAR MENGGUNAKAN METRICS LECOQ (Bukan Vercel) -->
   <img src="https://metrics.lecoq.io/SyaefulEffendi?template=classic&base=false&plugin_languages=yes&plugin_languages_limit=6&theme=dark" alt="Top Languages" />
 
 </div>
