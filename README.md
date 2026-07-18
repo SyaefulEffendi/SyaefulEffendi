@@ -68,8 +68,8 @@ Saya selalu antusias untuk menghadapi tantangan teknis yang kompleks dan siap be
   
   <br><br>
 
-  <!-- Top Languages (Diberi parameter bypass cache & format compact) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyaefulEffendi&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&icon_color=0EA5E9&border_color=0EA5E9&layout=compact&hide_border=true&langs_count=6&v=1001" alt="Top Languages" />
+  <!-- Menggunakan Server Metrics (Bebas Error Fetching Resource) -->
+  <img src="https://metrics.lecoq.io/SyaefulEffendi?template=classic&base=false&plugin_languages=yes&plugin_languages_limit=6&theme=dark" alt="Top Languages" />
 
 </div>
 
