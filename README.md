@@ -56,14 +56,20 @@ Saya selalu antusias untuk menghadapi tantangan teknis yang kompleks dan siap be
 
 ### 📊 Real-Time Statistics
 
-<!-- Menggunakan Server Demolab dan Activity Graph yang jauh lebih stabil -->
 <div align="center">
   
+  <!-- Activity Graph (Sudah Berhasil) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyaefulEffendi&bg_color=0D1117&color=ffffff&line=0EA5E9&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="80%" />
   
   <br><br>
   
-  <img src="https://streak-stats.demolab.com?user=SyaefulEffendi&theme=dark&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0EA5E9&sideLabels=ffffff&dates=ffffff&stroke=0EA5E9&border=0EA5E9" alt="GitHub Streak" />
+  <!-- GitHub Streak Stats (Diperbaiki URL dan ditambah bypass cache) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyaefulEffendi&theme=dark&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0EA5E9&sideLabels=ffffff&dates=ffffff&stroke=0EA5E9&border=0EA5E9&v=1" alt="GitHub Streak" />
+  
+  <br><br>
+
+  <!-- Top Languages (Diperbaiki URL dan ditambah bypass cache) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyaefulEffendi&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&border_color=0EA5E9&layout=normal&v=1" alt="Top Languages" />
 
 </div>
 
