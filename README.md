@@ -38,12 +38,14 @@ Saya selalu antusias untuk menghadapi tantangan teknis yang kompleks dan siap be
 <div align="center">
   <h3>Frontend & UI</h3>
   <a href="https://skillicons.dev">
+    <!-- Next.js ada di sebelah React -->
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite" alt="Frontend Technologies" />
   </a>
   
   <h3>Backend & Databases</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,flask,py,laravel,php,mysql,firebase" alt="Backend and Databases" />
+    <!-- Express ditambahkan di sebelah Node.js -->
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,py,laravel,php,mysql,firebase" alt="Backend and Databases" />
   </a>
   
   <h3>Tools, Environments & Hardware</h3>
@@ -68,8 +70,8 @@ Saya selalu antusias untuk menghadapi tantangan teknis yang kompleks dan siap be
   
   <br><br>
 
-  <!-- Menggunakan Server Metrics (Bebas Error Fetching Resource) -->
-  <img src="https://metrics.lecoq.io/SyaefulEffendi?template=classic&base=false&plugin_languages=yes&plugin_languages_limit=6&theme=dark" alt="Top Languages" />
+  <!-- Top Languages Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyaefulEffendi&layout=compact&theme=dark&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -85,7 +87,7 @@ Saya selalu antusias untuk menghadapi tantangan teknis yang kompleks dan siap be
   <p>💡 <b>Bahasaku:</b> Sistem penerjemah bahasa isyarat *real-time* yang memanfaatkan algoritma MediaPipe dan LSTM sebagai solusi AI praktis.</p>
 </div>
 
-<!-- Footer menggunakan Capsule Render (Solid Blue) -->
+<!-- Footer menggunakan Capsule Render -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=100&section=footer" width="100%" />
 </div>
